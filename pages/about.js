@@ -1,5 +1,7 @@
+import MainLayout from "../components/MainLayout";
+
 export default () => (
-    <div>
-      <p>This is the about page</p>
-    </div>
-  )
+  <MainLayout>
+    <p>This is the about page</p>
+  </MainLayout>
+);
