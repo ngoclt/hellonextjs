@@ -1,0 +1,14 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# build output
+.next
+
+# OS files
+.DS_Store
+
+# IDE 
+.vscode
